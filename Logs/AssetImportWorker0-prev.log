@@ -1,0 +1,370 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'ko' Physical Memory: 16327 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/d/Survival/Survival/Survival
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58067
+Successfully changed project path to: C:/Users/d/Survival/Survival/Survival
+C:/Users/d/Survival/Survival/Survival
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 148.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0f1 (61a549675243)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/d/Survival/Survival/Survival/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   NVIDIA
+    VRAM:     1977 MB
+    Driver:   27.21.14.6663
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006346 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 312.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.492 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3011 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.2 MB.
+System memory in use after: 128.4 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 3477.
+Total: 2.249300 ms (FindLiveObjects: 0.265300 ms CreateObjectMapping: 0.183200 ms MarkObjects: 1.714700 ms  DeleteObjects: 0.084800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Spaceship/Mesh/Mesh.FBX
+  artifactKey: Guid(1742110cdc4617c4c9e5f220fbb26a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spaceship/Mesh/Mesh.FBX using Guid(1742110cdc4617c4c9e5f220fbb26a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da2f838ff9b665b9c90e2189e9fef96') in 0.258817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Sound/SE/Branch_Hit.mp3
+  artifactKey: Guid(35adb80703729454f875fc5c3f1b1569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Branch_Hit.mp3 using Guid(35adb80703729454f875fc5c3f1b1569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '972145ef289bab17369f9353f1602300') in 0.053725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Free/Desert Rock/Textures/Desert Rock_512_Roughness.tga
+  artifactKey: Guid(2bb89817dd84f564f89a8371f51645e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Textures/Desert Rock_512_Roughness.tga using Guid(2bb89817dd84f564f89a8371f51645e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c054accaf157cfeac33ec79c21f1166c') in 0.623087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_cloed_Roll_Loop.fbx
+  artifactKey: Guid(a39d150aebfb4ce449f4a4f23709b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_cloed_Roll_Loop.fbx using Guid(a39d150aebfb4ce449f4a4f23709b822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967e8aa49f562947be6a9e5f87ca9ca5') in 0.285233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Sound/SE/Cutting_Crushing_Tree_ecfike.wav
+  artifactKey: Guid(5feb03ac30b1c3d418f4821afc50a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Cutting_Crushing_Tree_ecfike.wav using Guid(5feb03ac30b1c3d418f4821afc50a919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11acf009c030d77f318946db3af0d2d') in 0.024795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Sound/SE/Machine_Activate.mp3
+  artifactKey: Guid(13ba7794c610621488e8aeaee85ca5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Machine_Activate.mp3 using Guid(13ba7794c610621488e8aeaee85ca5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d524b0d671114ead3b477bea66d43f') in 0.019932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Sound/SE/Build Hammering_krissyeliot.mp3
+  artifactKey: Guid(5e3dbef3017bd4a43bae0aca7ef154a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Build Hammering_krissyeliot.mp3 using Guid(5e3dbef3017bd4a43bae0aca7ef154a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55697a3c32824eb53efb98421cd44604') in 0.011788 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Prefabs/ItemPrefabs/SubMachineGun Item.prefab
+  artifactKey: Guid(017a1d44e752b9946b67bbf1e467eacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ItemPrefabs/SubMachineGun Item.prefab using Guid(017a1d44e752b9946b67bbf1e467eacd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1331730ca2651cfa76db6665b6678b9') in 0.027737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Sound/SE/pickaxe_rock_crash.mp3
+  artifactKey: Guid(0720e249f8b692e4bb73c2512dcafc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/pickaxe_rock_crash.mp3 using Guid(0720e249f8b692e4bb73c2512dcafc8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3e29847bdee5af251157600ab2dc8c') in 0.012996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Particle System/Flame/Point Light.prefab
+  artifactKey: Guid(2c02fe8377f03574caaefbe46027cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle System/Flame/Point Light.prefab using Guid(2c02fe8377f03574caaefbe46027cd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c521f9d0227ff3c08e26d8af9318aa') in 0.006586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open.fbx
+  artifactKey: Guid(ecb6e102166bfcf47b9206c2f8297fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open.fbx using Guid(ecb6e102166bfcf47b9206c2f8297fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a3cb00e35bb3fc2a72993957411ea6') in 0.298601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Spaceship/Texture/Spaceship_diffuse.psd
+  artifactKey: Guid(e0e706ed2d952b84ca438f3ff096b11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spaceship/Texture/Spaceship_diffuse.psd using Guid(e0e706ed2d952b84ca438f3ff096b11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '372d028509d4a241853025db068b2f54') in 0.030362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_GoToRoll.fbx
+  artifactKey: Guid(f2fc0388a7c562e4fa0d179ac93423ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RobotSphere/Assets/Models/Animation/robotSphere@anim_open_GoToRoll.fbx using Guid(f2fc0388a7c562e4fa0d179ac93423ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6739f45b82affef843c73d86d3d5ccd') in 0.266599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sound/SE/Axe_Chopping_selector.wav
+  artifactKey: Guid(be54c0e172e78a2439d440b221cff245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Axe_Chopping_selector.wav using Guid(be54c0e172e78a2439d440b221cff245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89de310c296ca997f7a31f34415b016') in 0.012507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f69938b03242c331f8d24e1d0c99d33') in 0.009848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/LightingData.asset
+  artifactKey: Guid(5a4b75cdf725b1b43a0d44077a3d5801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/LightingData.asset using Guid(5a4b75cdf725b1b43a0d44077a3d5801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce477665bb6d31c4b2b84aca339d66e8') in 0.010898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Spaceship/Texture/Spaceship_diffuse.tga
+  artifactKey: Guid(7e61fbd147bb4a443bdeff558116e5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spaceship/Texture/Spaceship_diffuse.tga using Guid(7e61fbd147bb4a443bdeff558116e5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e74d6263a3d26d1ae0fee4c806eb8dd') in 0.018443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(be92f6f6a6611bd4eb1a0b824b6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_dir.png using Guid(be92f6f6a6611bd4eb1a0b824b6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4597024ccdcc075e8c9522c63b0c40a0') in 0.038932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Sound/SE/Archemy_Table_Activate.mp3
+  artifactKey: Guid(e3e364e3abd573048aaccdfe7e09eabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/SE/Archemy_Table_Activate.mp3 using Guid(e3e364e3abd573048aaccdfe7e09eabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c575649f35a8a9713f674c2c9bebfd71') in 0.012109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Models/Materials/BuildingWhite.mat
+  artifactKey: Guid(a91026d7d8a6f544183984d276f2abae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Materials/BuildingWhite.mat using Guid(a91026d7d8a6f544183984d276f2abae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdaf8e19fccde575ad9c045af9f331af') in 0.031492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Image/UI/Status/Status_Thirsty.png
+  artifactKey: Guid(9159f3eea40b27940b8c789e8eac1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Image/UI/Status/Status_Thirsty.png using Guid(9159f3eea40b27940b8c789e8eac1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fb2cecc367e369ac03ffbe0d67bcd5') in 0.022676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(22a8ecd253753a04183881a601d42d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_light.exr using Guid(22a8ecd253753a04183881a601d42d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697c49900fff554d48d920bca393598c') in 0.035376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Sound/Animal/Slits_willhiccups.mp3
+  artifactKey: Guid(1c9920fbf2d675345bc2dbe45b1b0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound/Animal/Slits_willhiccups.mp3 using Guid(1c9920fbf2d675345bc2dbe45b1b0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '828e5c5ff8548a89c858e01c142fe3ad') in 0.011777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources/HDRenderPipelineAsset.asset
+  artifactKey: Guid(28caec80ad8f19342b423c5d54c9f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources/HDRenderPipelineAsset.asset using Guid(28caec80ad8f19342b423c5d54c9f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3917e65088f644c2c4692fdf913359d') in 0.005062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_shadowmask.png
+  artifactKey: Guid(b2183996fb5d34149943741f80bb8b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_shadowmask.png using Guid(b2183996fb5d34149943741f80bb8b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534679d69267f2a0c4e4fd80e3bcc2fd') in 0.017072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Spaceship/Materials/Spaceship.mat
+  artifactKey: Guid(cd5698e9cbe7b3d43b3419ed61f052aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spaceship/Materials/Spaceship.mat using Guid(cd5698e9cbe7b3d43b3419ed61f052aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b48b8c2a889f07eb1c8089ed13a67e9') in 0.014172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Spaceship/Texture/Spaceship_specular.tga
+  artifactKey: Guid(78591617550ddfb408243ab3cfd8a252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spaceship/Texture/Spaceship_specular.tga using Guid(78591617550ddfb408243ab3cfd8a252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba514c83fa786557cd03f16bad4f58f1') in 0.015873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Free/Desert Rock/Materials/NewBrush.brush
+  artifactKey: Guid(7a8c279916fcca64780af037d6d37552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Materials/NewBrush.brush using Guid(7a8c279916fcca64780af037d6d37552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94422e5c2de8b7b1d0e9d59924ac14f5') in 0.033551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.697865 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b92c9e3cf01764e21f6081a062bff4c0') in 0.010333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.761791 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72714f82c132777e064ed1ded96f4606') in 0.007014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.194444 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be02b890d5865441665a5e62903498a6') in 0.006331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.088221 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd77f4b03e8ae6db7b874c1450c914e') in 0.008207 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025898 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.805 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.8 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 3652.
+Total: 3.007300 ms (FindLiveObjects: 0.348800 ms CreateObjectMapping: 0.240900 ms MarkObjects: 2.366000 ms  DeleteObjects: 0.038300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.548644 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d4c547ccb0c5aaf570ca97894205a4') in 0.026940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.179881 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00dc12806e58cf46fdbf1ed00c9bfd04') in 0.012571 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.6 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3654.
+Total: 2.311900 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.148100 ms MarkObjects: 1.880900 ms  DeleteObjects: 0.038000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.315998 seconds.
+  path: Assets/Prefabs/Particle/Hit_Effect.prefab
+  artifactKey: Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle/Hit_Effect.prefab using Guid(d3d9e9f3d9212214196ef5d0e54dab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44e883a187592662a48149e44d5a2e6') in 0.030935 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3656.
+Total: 2.841100 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.174500 ms MarkObjects: 2.347700 ms  DeleteObjects: 0.021200 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 23.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 83.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3656.
+Total: 2.651200 ms (FindLiveObjects: 0.252100 ms CreateObjectMapping: 0.151900 ms MarkObjects: 2.225400 ms  DeleteObjects: 0.020700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012922 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2975 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3658.
+Total: 2.936000 ms (FindLiveObjects: 0.269200 ms CreateObjectMapping: 0.177300 ms MarkObjects: 2.466400 ms  DeleteObjects: 0.021900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
